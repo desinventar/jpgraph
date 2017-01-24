@@ -1,0 +1,6 @@
+{
+    "name": "jpgraph",
+    "description": "JpGraph, an Object Oriented PHP5 Graph Plotting library",
+    "license": "QPL 1.0",
+    "version": "3.0.7"
+}
